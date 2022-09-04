@@ -29,6 +29,7 @@ module.exports = {
     "import/prefer-default-export": "off",
     "@typescript-eslint/comma-dangle": "off",
     "no-unused-vars": "off",
+    "arrow-parens": ["warn", "as-needed"],
     "@typescript-eslint/no-unused-vars": [
       "warn", // or "error"
       { 
